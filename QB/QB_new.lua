@@ -38,7 +38,7 @@
     { model = 'gbschlagensp',     name = 'Schlagen-SP',           brand = 'Benefactor',  price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
     { model = 'gbschrauber',      name = 'Schrauber',             brand = 'Benefactor',  price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
     { model = 'gbschwartzers',    name = 'Schwartzer S',          brand = 'Benefactor',  price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
-    { model = 'gbsentinelgts',    name = 'Senrinel GTS',          brand = 'Ubermacht',   price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
+    { model = 'gbsentinelgts',    name = 'Sentinel GTS',          brand = 'Ubermacht',   price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
     { model = 'gbsidewinder',     name = 'Sidewinder',            brand = 'Maxwell',     price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
     { model = 'gbsolace',         name = 'Solace',                brand = 'Dewbauchee',  price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
     { model = 'gbsolacev',        name = 'Solace Vitesse',        brand = 'Dewbauchee',  price = 5000,    category = 'sports',        type = 'automobile', shop = 'pdm' },
