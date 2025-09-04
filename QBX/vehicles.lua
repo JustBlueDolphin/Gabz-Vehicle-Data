@@ -1,4 +1,3 @@
-return {
     gb811s2 = {
         name = '811 S2',
         brand = 'Pfister', 
@@ -719,4 +718,3 @@ return {
         type = 'automobile',
         hash = `gbvoyagerh`,
     },
-}
