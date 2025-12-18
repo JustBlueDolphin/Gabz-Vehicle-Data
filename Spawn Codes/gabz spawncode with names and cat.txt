@@ -1,0 +1,193 @@
+## Super Cars
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gb811s2 | Pfister | 811 S2 | Super |
+| gbbanshees | Bravado | Banshee S | Super |
+| gbemerussb1 | Progen | Emerus SB1 | Super |
+| gbprospero | Pegassi | Prospero | Super |
+| gbtr3s | Progen | TR3-S | Super |
+
+## Sedans
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbadmiral | Dundreary | Admiral | Sedans |
+| gbargento7f | Obey | Argento 7F | Sedans |
+| gbharmann | Benefactor | Harmann | Sedans |
+| gbimpaler | Declasse | Imapaler | Sedans |
+| gbstanierle | Vapid | Stainer LE | Sedans |
+
+## Sports Cars
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbcomets2r | Pfister | Comet S2R | Sports |
+| gbcomets2rc | Pfister | Comet S2R C | Sports |
+| gbeon | Coil | Eon | Sports |
+| gbmilano | Grotti | Milano | Sports |
+| gbmogulrs | Karin | Mogul RS | Sports |
+| gbneonct | Pfister | Neon CT | Sports |
+| gbnexusrr | Dinka | Nesus RR | Sports |
+| gbronin | Emperor | Ronin | Sports |
+| gbschlagenr | Benefactor | Schlagen-R | Sports |
+| gbschlagensp | Benefactor | Schlagen-SP | Sports |
+| gbschrauber | Benefactor | Schrauber | Sports |
+| gbschwartzers | Benefactor | Schwartzer S | Sports |
+| gbsentinelgts | Ubermacht | Sentinel GTS | Sports |
+| gbsolace | Dewbauchee | Solace | Sports |
+| gbsolacev | Dewbauchee | Solace Vitesse | Sports |
+| gbsultanrsx | Karin | Sultan RSX | Sports |
+| gbtenfr | Obey | Tenf R | Sports |
+| gbvivantgrb | Bordeaux | Vivant GRB | Sports |
+
+## Sports Classics
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbcometcl | Pfister | Comet Classic | Sports Classic |
+| gbcomets1t | Pfister | Comet S1 Turbo | Sports Classic |
+| gbkomodagt | Lampadati | Komoda GT | Sports Classic |
+| gbraidillon | Toundra | Raidillon | Sports Classic |
+| gbsidewinder | Maxwell | Sidewinder | Sports Classic |
+| gbturismogt | Grotti | Turismo GT | Sports Classic |
+| gbturismogts | Grotti | Turismo GTS | Sports Classic |
+
+## Muscle
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbdominatorgsx | Vapid | Dominator GSX | Muscle |
+| gbhades | Dundreary | Hades | Muscle |
+| gbtahomagt | Declasse | Tahoma GT | Muscle |
+
+## Compacts
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbbriosof | Grotti | Brioso Fulmine | Compacts |
+| gbclubxr | BF | Club XR | Compacts |
+| gbirisz | Bollokan | Iris Z | Compacts |
+| gbissimetro | Weeny | Issi Metro | Compacts |
+| gbvivant | Bordeaux | Vivant | Compacts |
+
+## SUVs
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbgresleystx | Bravado | Gresley STX | SUV |
+| gbstarlight | Vulcar | Starlight | SUV |
+
+## Coupes
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbsapphire | Enus | Sapphire | Coupes |
+
+## Vans
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbbisonstx | Bravado | Bison STX | Vans |
+| gbboxboy | Brute | Boxboy | Vans |
+| gbboxboyft | Brute | Boxboy Food Truck | Vans |
+| gbesperta | Bravado | Esperta | Vans |
+
+## Offroad
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbbisonhf | Bravado | Bison HF | Offroad |
+| gblod4 | Coil | LOD 4 | Offroad |
+| gbmojave | Karin | Mojave | Offroad |
+| gbterrorizer | HVY | Terrorizer | Offroad |
+
+## Service Vehicles
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbtaxiargento7f | Obey | Argento 7F Taxi | Service |
+| gbtaxieon | Coil | Eon Taxi | Service |
+| gbtaxistanierle | Vapid | Stainer LE Taxi | Service |
+| gbtaxistarlight | Vulcar | Starlight Taxi | Service |
+| gbvoyagerg | MTL | Voyager Trash Truck | Service |
+
+## Commercial
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbvoyager | MTL | Voyager 6x4-T | Commercial |
+| gbvoyager2 | MTL | Voyager 4x2-T | Commercial |
+| gbvoyagerb | MTL | Voyager 6x4-B | Commercial |
+| gbvoyagerb2 | MTL | Voyager 4x2-B | Commercial |
+| gbvoyagerh | MTL | Voyager 6x2-H | Commercial |
+
+## Emergency Vehicles
+
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbemsbisonstx | Bravado | Bison STX Ambulance | Emergency |
+| gbemsesperta | Bravado | Esperta Ambulance | Emergency |
+| gbfirevoyager | MTL | Voyager Fire Truck | Emergency |
+| gbpolbisonhf | Bravado | Bison HF Police | Emergency |
+| gbpolbisonstx | Bravado | Bison STX Police | Emergency |
+| gbpolcometcl | Pfister | Comet Classic Police | Emergency |
+| gbpolcomets2r | Pfister | Comet S2R Police | Emergency |
+| gbpoldomgsx | Vapid | Dominator GSX Police | Emergency |
+| gbpolprospero | Pegassi | Prospero Police | Emergency |
+| gbpolsolace | Dewbauchee | Solace Police | Emergency |
+| gbpolstanier | Vapid | Stainer LE Police | Emergency |
+| gbpolstarlight | Vulcar | Starlight Police | Emergency |
+| gbpolsultanrsx | Karin | Sultan RSX Police | Emergency |
+| gbpoltahomagt | Declasse | Tahoma GT Police | Emergency |
+| gbpoltr3s | Progen | TR3-S Police | Emergency |
+| gbpolturismogt | Grotti | Turismo GT Police | Emergency |
+
+## New 
+| Spawn Code | Brand | Name | Category |
+|---|---|---|---|
+| gbarcherpro2 | Maibatsu | Archer Pro II | Sports |
+| gbargento2f | Obey | Argento 2F | Sports |
+| gbargento7fs | Obey | Argento 7F Sportsback | Sports |
+| gbcheetahs | Grotti | Grotti Cheetah S | Super |
+| gbcometclf | Pfister | Comet Classic Florio | Sports Classic |
+| gbcomets1tf | Pfister | Comet S1 Turbo Florio | Sports Classic |
+| gbcyphergts | Ubermacht | Cypher GTS | Sports |
+| gbdelivere | Hijak | Deliver-E | Commercial |
+| gbechelon | BF | Echelon | Sports |
+| gbechelons | BF | Echelon Sportsback | Sports |
+| gbelegyrh2 | Annis | Elegy RH2 | Sports Classic |
+| gbemssteed | Vapid | Steed Ambulance | Emergency | 
+| gberotiq | Bollokan | E-Rotiq | SUV |
+| gbesurfer | BF | e-Surfer | Vans |
+| gbhedra | Vulcar | Hedra | Sedans |
+| gbhedrakombi | Vulcar | Hedra Kombi | Sedans |
+| gbhurricane | Brute | Hurricane | Muscle |
+| gbimpalerdlx | Declasse | Impaler Deluxe | Muscle |
+| gbmochi | Annis | Mochi | Compacts |
+| gbmugello | Grotti | Mugello | Super |
+| gbpoladmiral | Vapid | Admiral Police | Emergency |
+| gbpolargento7f | Obey | Argento 7F Police | Emergency |
+| gbpolbanshees | Bravado | Banshee S Police | Emergency |
+| gbpolclubxr | BF | Club XR Police  | Emergency |
+| gbpolechelon | BF | Echelon Police | Emergency |
+| gbpoleon | Coil | Eon Police | Emergency |
+| gbpolesperta | Bravado | Esperta Police | Emergency |
+| gbpolgresley | Bravado | Gresley Police | Emergency |
+| gbpolhedra | Vulcar | Hedra Police | Emergency |
+| gbpolimpaler | Declasse | Impaler Police | Emergency |
+| gbpolmojave | Karin | Mojave Police | Emergency |
+| gbpolscoutgsx | Vapid | Scout GSX Police | Emergency |
+| gbpolsentinelgts | Ubermacht | Sentinel GTS Police | Emergency |
+| gbpolstanier | Vapid | Stainer LE Police | Emergency |
+| gbpolsteedvan | Vapid | Steed Police | Emergency |
+| gbpolterrorizer | HVY | Terrorizer Police | Emergency |
+| gbretinueloz | Vapid | Retinue Lozspeed | Sports |
+| gbromulus | Annis | Romulus | Sports |
+| gbrumina | Annis | Runina | Sports |
+| gbscoutgsx | Vapid | Scout GSX | SUV |
+| gbsteedcrew | Vapid | Steed Crewmate | Vans |
+| gbsteedvan | Vapid | Steed | Vans |
+| gbtempestafs | Pegassi | Tempesta Fuoristrada | Super |
+| gbvigerorat | Declasse | Vigero Rattler | Muscle |
+| gbzeitgeist | Benefactor-Progen | Zeitgeist | Super |
