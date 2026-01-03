@@ -135,7 +135,7 @@ INSERT INTO vehicles (name, model, price, category) VALUES
 ('Terrorizer Police', 'gbpolterrorizer', 140000, 'emergency'),
 ('Retinue Lozspeed', 'gbretinueloz', 130000, 'sports'),
 ('Romulus', 'gbromulus', 130000, 'sports'),
-('Runina', 'gbrumina', 130000, 'sports'),
+('Rumina', 'gbrumina', 130000, 'sports'),
 ('Scout GSX', 'gbscoutgsx', 160000, 'suv'),
 ('Steed Crewmate', 'gbsteedcrew', 110000, 'vans'),
 ('Steed', 'gbsteedvan', 110000, 'vans'),

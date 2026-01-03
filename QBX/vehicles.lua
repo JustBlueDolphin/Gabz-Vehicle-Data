@@ -1062,7 +1062,7 @@
         hash = `gbromulus`,
     },
     gbrumina = {
-        name = 'Runina',
+        name = 'Rumina',
         brand = 'Annis', 
         model = 'gbrumina',
         price = 5000,

@@ -184,7 +184,7 @@
 | gbpolterrorizer | HVY | Terrorizer Police | Emergency |
 | gbretinueloz | Vapid | Retinue Lozspeed | Sports |
 | gbromulus | Annis | Romulus | Sports |
-| gbrumina | Annis | Runina | Sports |
+| gbrumina | Annis | Rumina | Sports |
 | gbscoutgsx | Vapid | Scout GSX | SUV |
 | gbsteedcrew | Vapid | Steed Crewmate | Vans |
 | gbsteedvan | Vapid | Steed | Vans |

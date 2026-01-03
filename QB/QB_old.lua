@@ -1180,7 +1180,7 @@ QBCore.Shared.Vehicles = {
         ['shop'] = 'pdm',
     },
     ['gbrumina'] = {
-        ['name'] = 'Runina',
+        ['name'] = 'Rumina',
         ['brand'] = 'Annis',
         ['model'] = 'gbrumina',
         ['price'] = 5000,

@@ -117,7 +117,7 @@
     { model = 'gbpolterrorizer', name = 'Terrorizer Police', brand = 'HVY', price = 5000, category = 'emergency', type = 'automobile', shop = 'pdm' },
     { model = 'gbretinueloz', name = 'Retinue Lozspeed', brand = 'Vapid', price = 5000, category = 'sports', type = 'automobile', shop = 'pdm' },
     { model = 'gbromulus', name = 'Romulus', brand = 'Annis', price = 5000, category = 'sports', type = 'automobile', shop = 'pdm' },
-    { model = 'gbrumina', name = 'Runina', brand = 'Annis', price = 5000, category = 'sports', type = 'automobile', shop = 'pdm' },
+    { model = 'gbrumina', name = 'Rumina', brand = 'Annis', price = 5000, category = 'sports', type = 'automobile', shop = 'pdm' },
     { model = 'gbscoutgsx', name = 'Scout GSX', brand = 'Vapid', price = 5000, category = 'suv', type = 'automobile', shop = 'pdm' },
     { model = 'gbsteedcrew', name = 'Steed Crewmate', brand = 'Vapid', price = 5000, category = 'vans', type = 'automobile', shop = 'pdm' },
     { model = 'gbsteedvan', name = 'Steed', brand = 'Vapid', price = 5000, category = 'vans', type = 'automobile', shop = 'pdm' },
