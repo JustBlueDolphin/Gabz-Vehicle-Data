@@ -187,4 +187,3 @@
 | gbpolsteedvan      | Vapid    | Steed Police           | Emergency  |
 | gbpolterrorizer    | HVY      | Terrorizer Police      | Emergency  |
 
-<!-- All new vehicles have been merged into their correct categories above. -->
