@@ -1,4 +1,4 @@
-## Super Cars
+### Super Cars
 
 | Spawn Code      | Brand     | Name                | Category |
 |-----------------|-----------|---------------------|----------|
@@ -12,7 +12,9 @@
 | gbtempestafs    | Pegassi   | Tempesta Fuoristrada| Super    |
 | gbzeitgeist     | Benefactor-Progen | Zeitgeist    | Super    |
 
-## Sedans
+---
+
+### Sedans
 
 | Spawn Code      | Brand       | Name         | Category |
 |-----------------|-------------|--------------|----------|
@@ -24,7 +26,9 @@
 | gbhedra         | Vulcar      | Hedra        | Sedans   |
 | gbhedrakombi    | Vulcar      | Hedra Kombi  | Sedans   |
 
-## Sports Cars
+---
+
+### Sports Cars
 
 | Spawn Code      | Brand       | Name             | Category |
 |-----------------|-------------|------------------|----------|
@@ -56,7 +60,9 @@
 | gbromulus       | Annis       | Romulus          | Sports   |
 | gbrumina        | Annis       | Rumina           | Sports   |
 
-## Sports Classics
+---
+
+### Sports Classics
 
 | Spawn Code      | Brand     | Name                  | Category        |
 |-----------------|----------|-----------------------|-----------------|
@@ -71,7 +77,9 @@
 | gbcomets1tf     | Pfister  | Comet S1 Turbo Florio | Sports Classic  |
 | gbelegyrh2      | Annis    | Elegy RH2             | Sports Classic  |
 
-## Muscle
+---
+
+### Muscle
 
 | Spawn Code      | Brand      | Name            | Category |
 |-----------------|------------|-----------------|----------|
@@ -82,7 +90,9 @@
 | gbimpalerdlx    | Declasse   | Impaler Deluxe  | Muscle   |
 | gbvigerorat     | Declasse   | Vigero Rattler  | Muscle   |
 
-## Compacts
+---
+
+### Compacts
 
 | Spawn Code      | Brand     | Name           | Category |
 |-----------------|----------|----------------|----------|
@@ -93,7 +103,9 @@
 | gbvivant        | Bordeaux | Vivant         | Compacts |
 | gbmochi         | Annis    | Mochi          | Compacts |
 
-## SUVs
+---
+
+### SUVs
 
 | Spawn Code      | Brand     | Name           | Category |
 |-----------------|----------|----------------|----------|
@@ -102,13 +114,17 @@
 | gberotiq        | Bollokan | E-Rotiq        | SUV      |
 | gbscoutgsx      | Vapid    | Scout GSX      | SUV      |
 
-## Coupes
+---
+
+### Coupes
 
 | Spawn Code      | Brand     | Name      | Category |
 |-----------------|----------|-----------|----------|
 | gbsapphire      | Enus     | Sapphire  | Coupes   |
 
-## Vans
+---
+
+### Vans
 
 | Spawn Code      | Brand     | Name                | Category |
 |-----------------|----------|---------------------|----------|
@@ -120,7 +136,9 @@
 | gbsteedcrew     | Vapid    | Steed Crewmate      | Vans     |
 | gbsteedvan      | Vapid    | Steed               | Vans     |
 
-## Offroad
+---
+
+### Offroad
 
 | Spawn Code      | Brand     | Name      | Category |
 |-----------------|----------|-----------|----------|
@@ -129,7 +147,9 @@
 | gbmojave        | Karin    | Mojave    | Offroad  |
 | gbterrorizer    | HVY      | Terrorizer| Offroad  |
 
-## Service Vehicles
+---
+
+### Service Vehicles
 
 | Spawn Code      | Brand     | Name                | Category |
 |-----------------|----------|---------------------|----------|
@@ -139,7 +159,9 @@
 | gbtaxistarlight | Vulcar   | Starlight Taxi      | Service  |
 | gbvoyagerg      | MTL      | Voyager Trash Truck | Service  |
 
-## Commercial
+---
+
+### Commercial
 
 | Spawn Code      | Brand     | Name             | Category    |
 |-----------------|----------|------------------|-------------|
@@ -150,7 +172,9 @@
 | gbvoyagerh      | MTL      | Voyager 6x2-H    | Commercial  |
 | gbdelivere      | Hijak    | Deliver-E        | Commercial  |
 
-## Emergency Vehicles
+---
+
+### Emergency Vehicles
 
 | Spawn Code         | Brand     | Name                   | Category   |
 |--------------------|----------|------------------------|------------|
